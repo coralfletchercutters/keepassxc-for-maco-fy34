@@ -1,4 +1,4 @@
-
+KeePassXC for macOS secure Addon: real-time-protection & vulnerability-scanner offers the most advanced KeePassXC for macOS addon, with real-time-protection and
 
 
 
